@@ -8,7 +8,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Kaushal Kumar",
+  "author": "Puneet Singhwaiya",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.3",
